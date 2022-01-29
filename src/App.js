@@ -1,6 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * URL DEl API
+ * https://www.thecocktaildb.com/
+ * https://www.thecocktaildb.com/api.php
+ * 
+ */
+
 function App() {
   return (
     <div className="App">
