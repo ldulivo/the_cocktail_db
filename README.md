@@ -1,6 +1,5 @@
 ![](https://ldulivo.github.io/ldulivo/img/the_cocktail_db_1.png)
 ![](https://ldulivo.github.io/ldulivo/img/the_cocktail_db_2.png)
-![](https://ldulivo.github.io/ldulivo/img/the_cocktail_db_3.png)
 
 # The Cocktails db
 
