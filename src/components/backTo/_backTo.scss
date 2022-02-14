@@ -1,0 +1,25 @@
+.backTo {
+  display: flex;
+  flex-direction: row;
+
+  a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    font-size: 1.6em;
+    font-weight: 100;
+    background: #87ceeb;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 5px 25px 5px 20px;
+    box-shadow: 3px 3px 3px 0px #242020;
+    margin-right: 10px;
+
+    &:visited,
+    &:link,
+    &:active {
+      color: #242020;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.home_ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+
+  li {
+    margin: 5px 10px;
+
+    a {
+      text-decoration: none;
+      color: #fff;
+    }
+  }
+}

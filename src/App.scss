@@ -1,0 +1,15 @@
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+@import "./components/section/section";
+@import "./components/water/water";
+@import "./components/contentsGrid/contentsGrid";
+@import "./components/cards/cards";
+@import "./components/ingredient/ingredient";
+@import "./components/backTo/backTo";
+
+@import "./pages/home/home";
+@import "./pages/cocktailId/cocktailId";
+@import "./pages/listIngredients/listIngredientes";

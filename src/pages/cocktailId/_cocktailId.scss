@@ -1,0 +1,52 @@
+.cocktailId {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+
+  h1,
+  .cocktailId_h2 {
+    padding: 50px 0 10px 0;
+  }
+
+  .cocktailId_bottom {
+    padding-bottom: 50px;
+  }
+
+  img {
+    max-width: 400px;
+    max-height: 445px;
+  }
+}
+
+.cocktailId_ingredients {
+  display: flex;
+  list-style: none;
+  margin: 15px 0 0 0;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  li {
+    width: 170px;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+
+    &:visited,
+    &:link,
+    &:active {
+      color: #fff;
+    }
+  }
+}
+
+@media (max-width: 568px) {
+  .cocktailId {
+    img {
+      max-width: 90%;
+    }
+  }
+}
