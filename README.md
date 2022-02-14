@@ -1,5 +1,4 @@
 ![](https://ldulivo.github.io/ldulivo/img/the_cocktail_db_1.png)
-![](https://ldulivo.github.io/ldulivo/img/the_cocktail_db_1b.png)
 
 # The Cocktails db
 
@@ -7,7 +6,7 @@ This project is created with the ReactJs framework.
 
 ```js
 const ldulivo = {
-  ReactJs: useEffect,
+    ReactJs: useEffect,
   reactRouterDom: [ BrowserRouter, Route, Routes, Link, useLocation, useParams,],
   'react-redux': [useDispatch, useSelector]
   'react-player': 'Player movie from youtube',
@@ -15,3 +14,5 @@ const ldulivo = {
   urlAPI: 'https://www.thecocktaildb.com/api.php'
 };
 ```
+
+![](https://ldulivo.github.io/ldulivo/img/the_cocktail_db_1b.png)
