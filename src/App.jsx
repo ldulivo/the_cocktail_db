@@ -10,7 +10,7 @@ import ListIngredients from './pages/listIngredients/ListIngredients';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/the_cocktail_db/'>
 
       <div className='container'>
       <Routes>
